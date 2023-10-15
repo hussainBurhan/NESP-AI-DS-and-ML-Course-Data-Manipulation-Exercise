@@ -13,4 +13,4 @@ It includes operations like data cleaning, transformation, and basic analysis on
 6. The program will execute and perform various data processing tasks on the mobile phone data.
 
 ## Acknowledgments
-This program was created as part of the Python for Everyone course offered by the National Emerging Skills Program (NESP).
+This program was created as part of the AI, DS and ML Course  course offered by the National Emerging Skills Program (NESP).
